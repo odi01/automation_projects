@@ -1,6 +1,6 @@
 # Scripts That Make My Life Easier
 ## 1 - Autofill Form Using OCR
-### Using Python AI module to open a web page using Selenium and autofill a form that required reCaptcha.
+### Using Python AI module and Selenium to open a web page and autofill a form that required reCaptcha.
 The form is requiring you to prove that you aren't a robot by typing in a text that appears as an image. <br />
 To solve this problem I've used the Pytesseract module to convert an image to text using an OCR method.
 
