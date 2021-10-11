@@ -14,7 +14,8 @@ Pytesseract <br />
 ### This program is used to open WhatsApp Web and send a love emojis to your loved one at defined time range.
 The script requires a phone number input but with a simple code change you can make the phone number predefined. <br />
 The script also uses random emojis (three at max) from a list to send each time and random minutes to make it more versatile and hard to detect. <br />
-BTW there is an exe file in the folder in order to allow people that don't know Python to use the script.
+I've upload an exe file to download link in order to allow people that don't know Python to use the script. <br />
+Here: https://drive.google.com/file/d/1QJk5bU8WRrJJj96qerxIisibsc7SCMtA/view?usp=sharing
 
 To run this script you'll need to install the following modules: <br />
 pywhatkit
